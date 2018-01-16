@@ -1,0 +1,30 @@
+'Space' Run LifeGame
+RunLifeGame
+'P' Pause
+Pause
+'V' One time proceeds generation
+OneTimeProceed
+'I' Initialize field
+InitField
+'O' Open file
+OpenFile
+'S' Save file
+SaveFile
+'X' Trimming
+TrimArea
+'C' Copy&Paste
+CopyPaste
+'R' Rotate 90
+Rotate
+'+' Zoom up
+Zoom
+'-' Zoom out
+Zoom
+'F' Exit LifeGame
+Exit
+'arrow' Change looking area
+ChangeArea
+'1' Outlone enable or disenable
+OutLine
+'cntl-c' Cancel active motion
+Cancel
