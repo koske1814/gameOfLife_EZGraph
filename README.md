@@ -13,7 +13,7 @@ If you want to know about Game of Life, please watch this video.
 You need install EzGraph Library and X window before you compile this program.  
 
 ## Build
-%git clone https://github.com/koske1814/gameOfLife_EZGraph.git
-%cd LifeGame_EZGraph
-%make
-%./gameOfLife
+%git clone https://github.com/koske1814/gameOfLife_EZGraph.git  
+%cd LifeGame_EZGraph  
+%make  
+%./gameOfLife  
